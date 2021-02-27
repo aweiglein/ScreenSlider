@@ -1,8 +1,3 @@
-/*
-  This JS is from the following project:
-  https://github.com/bushblade/Full-Screen-Touch-Slider
-*/
-
 const slider = document.querySelector('.slider-container'),
   slides = Array.from(document.querySelectorAll('.slide'))
 
